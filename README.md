@@ -6,7 +6,8 @@ This simulation provides a visual and interactive way to understand basic popula
 
 ---
 ## Demo
-![Demo](https://github.com/kairav-del/BioSimulator/blob/main/Demo.gif)
+![Demo](https://github.com/aclfe/BioSimulator/blob/main/Demo.gif)
+
 
 ## 🌱 Features
 
